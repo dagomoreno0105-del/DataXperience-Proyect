@@ -9,10 +9,10 @@ A través de la limpieza de datos, análisis exploratorio y algoritmos de Machin
 ## Estructura del Repositorio
 Este repositorio contiene todos los entregables requeridos para la evaluación:
 *   **INFORME_PROYECTO - Colab.pdf**: Documento detallado con el planteamiento, EDA, análisis estadístico y conclusiones.
-*   **Organic_design_system_deck (1).pptx**: Diapositivas de apoyo para la exposición ejecutiva.
+*   **Presentacion_Final_DataXperience_G4.pdf**: Diapositivas de apoyo para la exposición.
 *   **Proyecto_Final_DataXperience_Grupal_4.ipynb**: Cuaderno de código con el pipeline completo (Limpieza, EDA y Machine Learning).
-*   **enhanced_box_office_data(2000-2024)u.csv**: Base de datos cruda original.
-*   **Peliculas_Limpias_Grupo4.csv**: Base de datos limpia generada por nuestro código, lista para análisis.
+*   **enhanced_box_office_data(2000-2024)u.csv**: Base de datos cruda original para cargar en los archivos del cuaderno en google colab y poder ejecutar todo el cuaderno sin problemas.
+
 
 ## Instrucciones para ejecutar el código
 1. Descarga el cuaderno `Proyecto_Final_DataXperience_Grupal_4.ipynb` y el dataset original `enhanced_box_office_data(2000-2024)u.csv`.
