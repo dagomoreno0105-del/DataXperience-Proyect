@@ -8,9 +8,9 @@ A través de la limpieza de datos, análisis exploratorio y algoritmos de Machin
 
 ## 📂 Estructura del Repositorio
 Este repositorio contiene todos los entregables requeridos para la evaluación:
-*   [📄 Informe Final del Proyecto](LINK_AQUI_AL_PDF_DEL_INFORME): Documento detallado con el planteamiento, EDA, análisis estadístico y conclusiones.
-*   [📊 Presentación de Sustentación](LINK_AQUI_A_LA_PRESENTACION): Diapositivas de apoyo para la exposición ejecutiva.
-*   [💻 Cuaderno de Colab (Código Completo)](LINK_AQUI_AL_IPYNB): Archivo `.ipynb` con el pipeline completo (Limpieza, EDA y Machine Learning con validación cruzada).
+*   [📄 Informe Final del Proyecto]: Documento detallado con el planteamiento, EDA, análisis estadístico y conclusiones.
+*   [📊 Presentación de Sustentación]: Diapositivas de apoyo para la exposición ejecutiva.
+*   [💻 Cuaderno de Colab (Código Completo)]: Archivo `.ipynb` con el pipeline completo (Limpieza, EDA y Machine Learning con validación cruzada).
 
 ## ⚙️ Instrucciones para ejecutar el código
 1. Descarga el cuaderno `Proyecto_Final_DataXperience_Completo_v3.ipynb` y el dataset original.
